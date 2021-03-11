@@ -1,15 +1,24 @@
-#User Management System
-##Introduction
+# User Management System
+
+
+## Introduction
+
 This project is used to create, get, update, and delete user details in SBT using Scala programming Language.
 
-##Technology
-User, UserCRUD and Implementation is implemented in Scala programming language.
 
-##Requirements
-Java 11
-Scala 2.13.5
-sbt 1.4.7
-Commands
+## Technology
+ 
+User, UserCRUD and Implementation is implemented in Scala programming language. 
+
+
+## Requirements
+
+* Java 11
+* Scala 2.13.5
+* sbt 1.4.7
+
+## Commands
+
 ###clean
 
 This command cleans the sbt project by deleting the target directory. The command output relevant messages.
